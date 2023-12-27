@@ -11,6 +11,7 @@ Construir um newsletter o mais próximo possível do design fornecido
 ### Screenshot
 
 ![](./newsletter-sign-up.png)
+![](./newsletter-sign-up1.png)
 
 ### Links
 
