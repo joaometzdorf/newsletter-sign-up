@@ -8,6 +8,10 @@ section {
     margin: 2rem 1.2rem;
 }
 
+.image-illustration-mobile {
+    width: 100%;
+}
+
 .image-illustration-desktop {
     display: none;
 }
